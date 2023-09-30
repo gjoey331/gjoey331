@@ -36,7 +36,7 @@ Welcome to my GitHub profile. Let me share with you some of my skills and experi
 ![Vuforia](https://img.shields.io/badge/-Vuforia-blue?style=flat&logo=vuforia&logoColor=white)
 
 ## Project Management 🛠️
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-blue?style=flat&logo=azure-devops&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure%20DevOps-blue?style=flat&logo=azure-devops&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat&logo=jira&logoColor=white)
 
 ## 3D Modelling 📐
